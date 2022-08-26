@@ -1,2 +1,3 @@
 # GM_CD30MP3_MCP2115
-This sketch for can adapter by CD30MP3, testing in Opel Corsa D
+This lib files and arduino skecth
+Detailed describe: https://www.drive2.ru/l/613346069954198673/
